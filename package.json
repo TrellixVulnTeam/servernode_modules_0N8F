@@ -2,7 +2,7 @@
   "name": "node-sql-ts",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "build": "npx tsc && node dist/index.js",
     "start": "nodemon src/index.ts --exec ts-node",
